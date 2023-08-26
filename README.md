@@ -1,5 +1,3 @@
-# library_management_system
-
 # Library Management System
 
 This help outlines a basic library management system implemented using object-oriented programming.
