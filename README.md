@@ -1,5 +1,6 @@
 # library_management_system
-Library management system using object oriented programming 
+Library management system using object oriented programming
+
 This is a Python program that implements a basic library management system.
 The program includes three main classes: `Book`, `Patron` and `Library`. These classes are used to simulate the interactions between patrons, books, and the library itself. Here is a brief overview of how the program works:
 The `Book` class represents individual books with attributes like title, author, genre, and whether the book has been borrowed. The class provides methods to check if a book is available, borrow a book, and return a book.
